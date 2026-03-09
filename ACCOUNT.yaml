@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: AccentCoach
+  vercel:
+    project: AccentCoach
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: accentcoach

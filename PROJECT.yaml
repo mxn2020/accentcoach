@@ -1,0 +1,16 @@
+id: 4bf94596-200c-44aa-89ec-b862822eee40
+name: accentcoach
+description: "Pronunciation feedback and practice exercises"
+tier: prototype
+lane: side-projects
+priority: low
+category: learning
+focus: false
+open_tasks: 0
+oss: false
+stack: [typescript, react, convex, vite]
+repo: https://github.com/mxn2020/accentcoach
+deploy_url: null
+last_active: 2026-03-02
+tags: [ai, convex]
+notes:
